@@ -1,0 +1,94 @@
+{
+    "interstellar": {
+        "country": "USA",
+        "year_of_production": "2014",
+        "studio": "Paramount Pictures",
+        "scriptwriter": "Jonathan Nolan",
+        "director": "Christopher Nolan",
+        "producer": "Emma Thomas",
+        "main_characters": [
+            {
+                "name": "Joseph",
+                "description": "Widowed NASA pilot who reluctantly becomes a farmer after the agency was closed by the government, and eventually joins the Endurance mission as the lead pilot",
+                "actor": {
+                    "first_name": "Matthew",
+                    "last_name": "McConaughey"
+                }
+            }, {
+                "name": "Dr. Amelia Brand",
+                "description": "Professor Brand's daughter and NASA scientist who, aboard the Endurance mission, is responsible for conducting planet colonization",
+                "actor": {
+                    "first_name": "Anne",
+                    "last_name": "Hathaway"
+                }
+            }, {
+                "name": "Murphy",
+                "description": "Joseph's daughter, who eventually becomes a NASA scientist working under Professor Brand",
+                "actor": {
+                    "first_name": "Jessica",
+                    "last_name": "Chastain"
+                }
+            }, {
+                "name": "Donald",
+                "description": "Cooper's elderly father-in-law",
+                "actor": {
+                    "first_name": "John",
+                    "last_name": "Lithgow"
+                }
+            }, {
+                "name": "Professor John Brand",
+                "description": "High-ranking NASA scientist, father of Amelia, former mentor of Cooper, and director of the Lazarus and Endurance missions",
+                "actor": {
+                    "first_name": "Michael",
+                    "last_name": "Caine"
+                }
+            }
+        ]
+    },
+    "interstellar_2": {
+        "country": "USA",
+        "year_of_production": "2014",
+        "studio": "Paramount Pictures",
+        "scriptwriter": "Jonathan Nolan",
+        "director": "Christopher Nolan",
+        "producer": "Emma Thomas",
+        "main_characters": [
+            {
+                "name": "Joseph",
+                "description": "Widowed NASA pilot who reluctantly becomes a farmer after the agency was closed by the government, and eventually joins the Endurance mission as the lead pilot",
+                "actor": {
+                    "first_name": "Matthew",
+                    "last_name": "McConaughey"
+                }
+            }, {
+                "name": "Dr. Amelia Brand",
+                "description": "Professor Brand's daughter and NASA scientist who, aboard the Endurance mission, is responsible for conducting planet colonization",
+                "actor": {
+                    "first_name": "Anne",
+                    "last_name": "Hathaway"
+                }
+            }, {
+                "name": "Murphy",
+                "description": "Joseph's daughter, who eventually becomes a NASA scientist working under Professor Brand",
+                "actor": {
+                    "first_name": "Jessica",
+                    "last_name": "Chastain"
+                }
+            }, {
+                "name": "Donald",
+                "description": "Cooper's elderly father-in-law",
+                "actor": {
+                    "first_name": "John",
+                    "last_name": "Lithgow"
+                }
+            }, {
+                "name": "Professor John Brand",
+                "description": "High-ranking NASA scientist, father of Amelia, former mentor of Cooper, and director of the Lazarus and Endurance missions",
+                "actor": {
+                    "first_name": "Michael",
+                    "last_name": "Caine"
+                }
+            }
+        ]
+    }
+}

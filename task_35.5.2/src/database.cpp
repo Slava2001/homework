@@ -3,10 +3,6 @@
 
 #include "database.h"
 
-std::ostream &operator<<(std::ostream &os, const ActorInfo &actor_info) {
-  return os;
-}
-
 Database::Database(const char *path_to_database) {
   std::ifstream cfg_file(path_to_database);
   if (!cfg_file.is_open()) {

@@ -7,7 +7,6 @@ struct ActorInfo {
     /// Map with actor roles. Key - film name, value - vector of actor roles in this film
     std::map<std::string, std::vector<Character>> films_map;
 };
-std::ostream &operator<<(std::ostream &os, const ActorInfo &actor_info);
 
 /// @brief Films database
 class Database {

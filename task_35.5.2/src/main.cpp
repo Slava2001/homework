@@ -5,7 +5,7 @@ void show_found_actors(std::map<Actor, ActorInfo> actors);
 
 int main() {
   std::cout << "Loading database..." << std::endl;
-  Database base("../test_database.json");
+  Database base("../database.json");
   std::cout << "Loaded!" << std::endl;
 
   while (true) {

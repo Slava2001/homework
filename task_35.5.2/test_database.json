@@ -1,0 +1,59 @@
+{
+    "film_1": {
+        "country": "country",
+        "year_of_production": "0",
+        "studio": "studio",
+        "scriptwriter": "scriptwriter",
+        "director": "director",
+        "producer": "producer",
+        "main_characters": [
+            {
+                "name": "character_1",
+                "description": "description",
+                "actor": {
+                    "first_name": "name_1",
+                    "last_name": "last_name_1"
+                }
+            }, {
+                "name": "character_2",
+                "description": "description",
+                "actor": {
+                    "first_name": "name_1",
+                    "last_name": "last_name_1"
+                }
+            }
+        ]
+    },
+    "film_2": {
+        "country": "country",
+        "year_of_production": "0",
+        "studio": "studio",
+        "scriptwriter": "scriptwriter",
+        "director": "director",
+        "producer": "producer",
+        "main_characters": [
+            {
+                "name": "character_1",
+                "description": "description",
+                "actor": {
+                    "first_name": "name_1",
+                    "last_name": "last_name_1"
+                }
+            }, {
+                "name": "character_2",
+                "description": "description",
+                "actor": {
+                    "first_name": "name_1",
+                    "last_name": "last_name_2"
+                }
+            }, {
+                "name": "character_2",
+                "description": "description",
+                "actor": {
+                    "first_name": "name_2",
+                    "last_name": "last_name_1"
+                }
+            }
+        ]
+    }
+}

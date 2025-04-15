@@ -1,5 +1,5 @@
 {
-    "interstellar": {
+    "Iterstellar": {
         "country": "USA",
         "year_of_production": "2014",
         "studio": "Paramount Pictures",
@@ -45,48 +45,158 @@
             }
         ]
     },
-    "interstellar_2": {
+    "Matrix": {
         "country": "USA",
-        "year_of_production": "2014",
-        "studio": "Paramount Pictures",
+        "year_of_production": "1999",
+        "studio": "Warner Bros.",
+        "scriptwriter": "Larry Wachowski",
+        "director": "Lana Wachowski",
+        "producer": "Joel Silver",
+        "main_characters": [
+            {
+                "name": "Thomas Anderson",
+                "description": "A computer programmer who leads a double life as the hacker Neo, chosen to lead the fight against machines.",
+                "actor": {
+                    "first_name": "Keanu",
+                    "last_name": "Reeves"
+                }
+            }, {
+                "name": "Trinity",
+                "description": "A skilled hacker and a member of the rebel group, Morpheus, who helps Neo understand the nature of reality.",
+                "actor": {
+                    "first_name": "Carrie-Anne",
+                    "last_name": "Moss"
+                }
+            }, {
+                "name": "Morpheus",
+                "description": "The leader of the rebel group who believes Neo is The One, and helps him awaken to his true potential.",
+                "actor": {
+                    "first_name": "Laurence",
+                    "last_name": "Fishburne"
+                }
+            }, {
+                "name": "Agent Smith",
+                "description": "A powerful computer program that is designed to eliminate any threat to the Matrix.",
+                "actor": {
+                    "first_name": "Hugo",
+                    "last_name": "Weaving"
+                }
+            }
+        ]
+    },
+    "Inception": {
+        "country": "USA",
+        "year_of_production": "2010",
+        "studio": "Warner Bros.",
+        "scriptwriter": "Christopher Nolan",
+        "director": "Christopher Nolan",
+        "producer": "Emma Thomas",
+        "main_characters": [
+            {
+                "name": "Dom Cobb",
+                "description": "A skilled extractor who specializes in stealing information from people's dreams.",
+                "actor": {
+                    "first_name": "Leonardo",
+                    "last_name": "DiCaprio"
+                }
+            }, {
+                "name": "Arthur",
+                "description": "Cobb's loyal partner and a skilled forger who creates the dream worlds.",
+                "actor": {
+                    "first_name": "Joseph",
+                    "last_name": "Gordon-Levitt"
+                }
+            }, {
+                "name": "Ariadne",
+                "description": "An architect who designs the dream worlds for Cobb's team.",
+                "actor": {
+                    "first_name": "Ellen",
+                    "last_name": "Page"
+                }
+            }, {
+                "name": "Eames",
+                "description": "A skilled forger who specializes in impersonating people in the dream worlds.",
+                "actor": {
+                    "first_name": "Tom",
+                    "last_name": "Hardy"
+                }
+            }
+        ]
+    },
+    "The dark knight": {
+        "country": "USA",
+        "year_of_production": "2008",
+        "studio": "Warner Bros.",
         "scriptwriter": "Jonathan Nolan",
         "director": "Christopher Nolan",
         "producer": "Emma Thomas",
         "main_characters": [
             {
-                "name": "Joseph",
-                "description": "Widowed NASA pilot who reluctantly becomes a farmer after the agency was closed by the government, and eventually joins the Endurance mission as the lead pilot",
+                "name": "Bruce Wayne",
+                "description": "A wealthy playboy who becomes Batman, a vigilante who protects Gotham City from criminals.",
                 "actor": {
-                    "first_name": "Matthew",
-                    "last_name": "McConaughey"
+                    "first_name": "Christian",
+                    "last_name": "Bale"
                 }
             }, {
-                "name": "Dr. Amelia Brand",
-                "description": "Professor Brand's daughter and NASA scientist who, aboard the Endurance mission, is responsible for conducting planet colonization",
+                "name": "Harvey Dent",
+                "description": "A district attorney who becomes Two-Face, a criminal obsessed with duality and revenge.",
                 "actor": {
-                    "first_name": "Anne",
-                    "last_name": "Hathaway"
+                    "first_name": "Aaron",
+                    "last_name": "Eckhart"
                 }
             }, {
-                "name": "Murphy",
-                "description": "Joseph's daughter, who eventually becomes a NASA scientist working under Professor Brand",
+                "name": "The Joker",
+                "description": "A chaotic and unpredictable criminal mastermind who plans to destroy Gotham City.",
                 "actor": {
-                    "first_name": "Jessica",
-                    "last_name": "Chastain"
+                    "first_name": "Heath",
+                    "last_name": "Ledger"
                 }
             }, {
-                "name": "Donald",
-                "description": "Cooper's elderly father-in-law",
+                "name": "Lieutenant James Gordon",
+                "description": "An honest and dedicated police officer who works with Batman to fight crime in Gotham City.",
                 "actor": {
-                    "first_name": "John",
-                    "last_name": "Lithgow"
+                    "first_name": "Gary",
+                    "last_name": "Oldman"
+                }
+            }
+        ]
+    },
+    "Django unchained": {
+        "country": "USA",
+        "year_of_production": "2012",
+        "studio": "The Weinstein Company",
+        "scriptwriter": "Quentin Tarantino",
+        "director": "Quentin Tarantino",
+        "producer": "Stacey Sher",
+        "main_characters": [
+            {
+                "name": "Django",
+                "description": "A slave who becomes a bounty hunter and eventually sets out to rescue his wife.",
+                "actor": {
+                    "first_name": "Jamie",
+                    "last_name": "Foxx"
                 }
             }, {
-                "name": "Professor John Brand",
-                "description": "High-ranking NASA scientist, father of Amelia, former mentor of Cooper, and director of the Lazarus and Endurance missions",
+                "name": "Dr. King Schultz",
+                "description": "A German bounty hunter who teaches Django the ways of the bounty hunter trade.",
                 "actor": {
-                    "first_name": "Michael",
-                    "last_name": "Caine"
+                    "first_name": "Christoph",
+                    "last_name": "Waltz"
+                }
+            }, {
+                "name": "Calvin Candie",
+                "description": "A wealthy and cruel plantation owner who owns Broomhill, a plantation where slaves are trained to fight.",
+                "actor": {
+                    "first_name": "Leonardo",
+                    "last_name": "DiCaprio"
+                }
+            }, {
+                "name": "Broomhilda",
+                "description": "Django's wife, who is a slave on the plantation.",
+                "actor": {
+                    "first_name": "Kerry",
+                    "last_name": "Washington"
                 }
             }
         ]

@@ -6,6 +6,7 @@ set(CMAKE_CXX_FLAGS "-g -Wall -Wextra -Wno-unused-parameter -Werror")
 include_directories("${CMAKE_CURRENT_LIST_DIR}/include")
 set(SRC
     "src/main.cpp"
+    "src/lake.cpp"
 )
 
 add_executable(${PROJECT_NAME} ${SRC})

@@ -20,7 +20,7 @@ public:
         for (auto path: img_paths) {
             QPixmap img(path);
             if (img.isNull()) {
-                throw std::runtime_error("Failed to load resourse");
+                throw std::runtime_error("Failed to load resource");
             }
             _imgs.push_back(img);
         }
@@ -38,7 +38,7 @@ public:
 
     void setValue(int value) {
         _val = (value < _min)? (_min): (value > _max? _max: value);
-        _current_img_index = _val * _imgs.size() /  (_max - _min);
+        _current_img_index = _val * _imgs.size() / (_max - _min);
         if (_current_img_index >= _imgs.size()) {
             // occurs when _val == _max
             _current_img_index = _imgs.size() - 1;

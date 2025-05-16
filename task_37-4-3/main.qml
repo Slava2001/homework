@@ -66,7 +66,7 @@ Window {
         }
 
         GridLayout {
-            anchors.horizontalCenter: parent.horizontalCenter
+            Layout.alignment: Qt.AlignHCenter
             columns: 2
             columnSpacing: 8
             rowSpacing: 8
@@ -99,7 +99,7 @@ Window {
             border.color: "black"
             radius: 10
             color: "gray"
-            anchors.horizontalCenter: parent.horizontalCenter
+            Layout.alignment: Qt.AlignHCenter
 
             ColumnLayout {
                 anchors {
